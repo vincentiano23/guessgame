@@ -1,0 +1,10 @@
+Biology:this is the study of animals
+physics:study of kinetics
+maths:study of formulas
+maths:study of formula
+Maths:Surds:Mathematical functions
+
+Maths:Surds:Mathematical functions
+Maths:Surds:Mathematical functions
+Computer Science:Cs:study of computers and more
+
